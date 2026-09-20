@@ -1,0 +1,6 @@
+@LocalizaApi_HostAddress = http://localhost:5202
+
+GET {{LocalizaApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
